@@ -64,5 +64,24 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Double the Donation is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://doublethedonation.com/
+Double the Donation provides a platform that simplifies corporate matching gifts, volunteer grants, and payroll giving for nonprofits. Their service automates the collection, verification, and submission of matching gift requests, helping organizations increase donor contributions and streamline compliance. The company offers integrations with major fundraising and CRM tools, a searchable matching gift database, and resources such as guides, webinars, and case studies to educate nonprofits on maximizing corporate giving opportunities.
+
+**Areas:** Company · Nonprofit · Fundraising · Matching Gifts · SaaS
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://doublethedonation.com/)
+- [Documentation](https://doublethedonation.com/resources/)
+- [Getting started](https://doublethedonation.com/get-a-demo/)
+- [Pricing](https://doublethedonation.com/pricing/)
+- [Support](https://support.doublethedonation.com/)
+- [Blog](https://doublethedonation.com/blog/)
+- [Compliance](https://security.doublethedonation.com/)
+- [Terms of service](https://doublethedonation.com/master-terms-and-conditions/)
+- [Privacy policy](https://doublethedonation.com/privacy-policy-2/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/double-the-donation/](https://apis.io/providers/double-the-donation/).
